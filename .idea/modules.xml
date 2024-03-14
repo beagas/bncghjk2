@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/antrapa/antrapa.iml" filepath="$PROJECT_DIR$/antrapa/antrapa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bncghjk.iml" filepath="$PROJECT_DIR$/bncghjk.iml" />
+    </modules>
+  </component>
+</project>
